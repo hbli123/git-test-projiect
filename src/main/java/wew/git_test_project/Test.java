@@ -4,9 +4,7 @@ public class Test {
 	private static void psvm(String str) {
 		// TODO Auto-generated method stub
  
-		System.out.println("Hello 到家");
- 
-		System.out.println("Hello Nihao");
+		 
   	 
 	}
 
